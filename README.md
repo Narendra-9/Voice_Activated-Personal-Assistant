@@ -17,7 +17,7 @@ This is a Python-based voice-activated personal assistant named Jarvis. It can p
 
 1. **Clone the Repository**
     ```bash
-    git clone [https://github.com/your-username/voice-activated-assistant.git](https://github.com/Narendra-9/Voice_Activated-Personal-Assistant.git)
+    git clone https://github.com/Narendra-9/Voice_Activated-Personal-Assistant.git
     cd voice-activated-assistant
     ```
 
